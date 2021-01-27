@@ -5,21 +5,21 @@
         "place": "Matsumotos",
         "web": "https://matsumotoshaveice.com",
         "description": "Shave Ice",
-        "image": "images/shave-ice.jpeg"
+        "image": "https://github.com/mculep/testing-1-2-3/blob/master/images/shave-ice.jpeg"
         },
         {
         "id": 1,
         "place": "Poke for the People",
         "web": "https://www.pokeforthepeople.com",
         "description": "All kinds of Poke",
-        "image": "images/poke.jpg"
+        "image": "https://github.com/mculep/testing-1-2-3/blob/master/images/poke.jpg"
         },
         {
         "id": 2,
         "place": "Nalu Health Bar and Cafe",
         "web": "https://www.naluhealthbar.com",
         "description": "Health food",
-        "image": "images/nalu.jpg"
+        "image": "https://github.com/mculep/testing-1-2-3/blob/master/images/nalu.jpg"
         }
     ]
 }
