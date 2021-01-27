@@ -20,6 +20,13 @@
         "web": "https://www.naluhealthbar.com",
         "description": "Health food",
         "image": "https://github.com/mculep/testing-1-2-3/blob/master/images/nalu.jpg"
+        },
+        {
+        "id": 3,
+        "place": "Zippy's",
+        "web": "https://www.zippys.com",
+        "description": "Good Hawaii Kine Food",
+        "image": "https://github.com/mculep/testing-1-2-3/blob/master/images/nalu.jpg"
         }
     ]
 }
