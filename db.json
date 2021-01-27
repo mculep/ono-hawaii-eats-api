@@ -1,0 +1,25 @@
+{
+"hawaii-food":[
+        {
+        "id": 0,
+        "place": "Matsumotos",
+        "web": "https://matsumotoshaveice.com",
+        "description": "Shave Ice",
+        "image": "images/shave-ice.jpeg"
+        },
+        {
+        "id": 1,
+        "place": "Poke for the People",
+        "web": "https://www.pokeforthepeople.com",
+        "description": "All kinds of Poke",
+        "image": "images/poke.jpg"
+        },
+        {
+        "id": 2,
+        "place": "Nalu Health Bar and Cafe",
+        "web": "https://www.naluhealthbar.com",
+        "description": "Health food",
+        "image": "images/nalu.jpg"
+        }
+    ]
+}
