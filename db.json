@@ -5,42 +5,42 @@
             "place": "Yogurstory",
             "web": "https://www.yogurstoryhi.com",
             "description": "Asian Bistro",
-            "image": "https://github.com/mculep/hawaii-grinds-api/blob/master/images/yogurstory.jpeg"
+            "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/yogurstory.jpeg"
         },
         {
             "id": 1,
             "place": "Poke for the People",
             "web": "https://www.pokeforthepeople.com",
             "description": "Poke bowls",
-            "image": "https://github.com/mculep/hawaii-grinds-api/blob/master/images/poke.jpg"
+            "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/poke.jpeg"
         },
         {
             "id": 2,
             "place": "Banan",
             "web": "https://banan.co",
             "description": "Dairy-free frozen yogurt",
-            "image": "https://github.com/mculep/hawaii-grinds-api/blob/master/images/banan.jpg"
+            "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/banan.jpeg"
         },
         {
             "id": 3,
             "place": "Ubae Hawaii",
             "web": "http://www.ubaehawaii.com",
             "description": "Purple yam dessert",
-            "image": "https://github.com/mculep/testing-1-2-3/blob/master/images/ubae.jpg"
+            "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/ubae.jpeg"
         },
         {
             "id": 4,
             "place": "Leonard's Bakery",
             "web": "https://www.leonardshawaii.com/malasadas/",
             "description": "Portugese doughnut",
-            "image": "https://github.com/mculep/testing-1-2-3/blob/master/images/leonards.jpg"
+            "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/leonards.jpeg"
         },
         {
             "id": 5,
             "place": "Kokoro Cafe Hawaii",
             "web": "https://kokorohawaii.com",
             "description": "Cafe dessert",
-            "image": "https://github.com/mculep/testing-1-2-3/blob/master/images/kokorocafehi.jpg"
+            "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/kokorocafehi.jpeg"
         }
         
     ]
