@@ -32,14 +32,14 @@
             "id": 4,
             "place": "Leonard's Bakery",
             "web": "https://www.leonardshawaii.com/malasadas/",
-            "description": "Portugese doughnut",
+            "description": "Portugese doughnuts",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/leonards.jpeg"
         },
         {
             "id": 5,
             "place": "Giovanni's Shrimp Truck",
             "web": "http://giovannisshrimptruck.com",
-            "description": "Shrimp Truck on the North shore of Oahi, HI",
+            "description": "Shrimp Truck on the North shore of Oahu, HI",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/giovannis.jpeg"
         },
         {
