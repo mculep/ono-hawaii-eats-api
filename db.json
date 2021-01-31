@@ -55,7 +55,7 @@
             "web": "https://www.waikiki-yokocho.com",
             "description": "Cafe dessert",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/yokocho.jpeg"
-        }
+        },
         {
             "id": 8,
             "place": "Kokoro Cafe Hawaii",
