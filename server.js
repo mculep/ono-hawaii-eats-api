@@ -11,8 +11,6 @@ server.use(router);
 server.listen(port);
 
 
-// Mahalo https://github.com/kubowania/ for teaching me how to make my own api!
-//https://youtu.be/FLnxgSZ0DG4
 
 
 
