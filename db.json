@@ -37,27 +37,20 @@
         },
         {
             "id": 5,
-            "place": "Kokoro Cafe Hawaii",
-            "web": "https://kokorohawaii.com",
-            "description": "Cafe dessert",
-            "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/kokoro.jpeg"
-        },
-        {
-            "id": 6,
             "place": "Giovanni's Shrimp Truck",
             "web": "http://giovannisshrimptruck.com",
             "description": "Shrimp Truck on the North shore of Oahi, HI",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/giovannis.jpeg"
         },
         {
-            "id": 7,
+            "id": 6,
             "place": "Waikiki Yokocho",
             "web": "https://www.waikiki-yokocho.com",
             "description": "Japanese food and desserts",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/yokocho.jpeg"
         },
         {
-            "id": 8,
+            "id": 7,
             "place": "Samurai",
             "web": "https://www.samurai-inc.com",
             "description": "Hawaiian Frost",
