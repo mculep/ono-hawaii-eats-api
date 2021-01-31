@@ -6,7 +6,7 @@
             "web": "https://www.yogurstoryhi.com",
             "description": "Asian Bistro",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/yogurstory.jpeg",
-            "ratings": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/leonards.jpeg"
+            "ratings": "hhttps://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/shaka.png"
         },
         {
             "id": 1,
@@ -14,7 +14,7 @@
             "web": "https://www.pokeforthepeople.com",
             "description": "Poke bowls",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/poke.jpeg",
-            "ratings": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/leonards.jpeg"
+            "ratings": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/shaka.png"
 
         },
         {
@@ -23,6 +23,7 @@
             "web": "https://banan.co",
             "description": "Dairy-free frozen yogurt",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/banan.jpeg",
+            "ratings": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/shaka.png"
 
         },
         {
@@ -31,7 +32,7 @@
             "web": "http://www.ubaehawaii.com",
             "description": "Purple yam dessert",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/ubae.jpeg",
-            "ratings": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/leonards.jpeg"
+            "ratings": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/shaka.png"
         },
         {
             "id": 4,
@@ -39,7 +40,7 @@
             "web": "https://www.leonardshawaii.com/malasadas/",
             "description": "Portugese doughnut",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/leonards.jpeg",
-            "ratings": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/leonards.jpeg"
+            "ratings": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/shaka.png"
 
         },
         {
@@ -48,7 +49,7 @@
             "web": "https://kokorohawaii.com",
             "description": "Cafe dessert",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/kokorocafehi.jpeg",
-            "ratings": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/leonards.jpeg"
+            "ratings": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/shaka.png"
 
         }
         
