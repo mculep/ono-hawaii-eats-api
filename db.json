@@ -55,6 +55,13 @@
             "web": "https://www.samurai-inc.com",
             "description": "Hawaiian Frost",
             "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/samurai.jpeg"
+        },
+        {
+            "id": 8,
+            "place": "Kokoro Cafe",
+            "web": "https://kokorohawaii.com",
+            "description": "Kokoro Cafe Dessert",
+            "image": "https://raw.githubusercontent.com/mculep/hawaii-grinds-api/master/images/kokoro.jpeg"
         }
         
     ]
